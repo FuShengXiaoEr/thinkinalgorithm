@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df9dc66b-bf74-4342-bf31-73f92f075753" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ejz8CpBnmLMAJWdWJ4gw46hvdz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Idea_workspace\thinkinalgorithm\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.chen.algorithm.skiplist.org.chen.algorithm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Idea_workspace\thinkinalgorithm\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FactoryExample">
+    <configuration name="DemoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.nio.DemoServer" />
+      <module name="thinkinalgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.chen.algorithm.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.designpattern.FactoryExample" />
+      <module name="thinkinalgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.chen.algorithm.designpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReadAndWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.io.FileReadAndWrite" />
+      <module name="thinkinalgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.chen.algorithm.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.proxy.HelloProxy" />
+      <module name="thinkinalgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.chen.algorithm.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrtegyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.designpattern.StrtegyExample" />
+      <module name="thinkinalgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.chen.algorithm.designpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FactoryExample" />
+        <item itemvalue="Application.StrtegyExample" />
+        <item itemvalue="Application.FileReadAndWrite" />
+        <item itemvalue="Application.DemoServer" />
+        <item itemvalue="Application.HelloProxy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df9dc66b-bf74-4342-bf31-73f92f075753" name="Default Changelist" comment="" />
+      <created>1594849628949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594849628949</updated>
+      <workItem from="1594849636193" duration="3177000" />
+      <workItem from="1595036236958" duration="5193000" />
+      <workItem from="1595124606296" duration="3437000" />
+      <workItem from="1595147495348" duration="1882000" />
+      <workItem from="1596058594130" duration="17017000" />
+      <workItem from="1600182530881" duration="2499000" />
+      <workItem from="1600573055740" duration="5988000" />
+      <workItem from="1601304723256" duration="1974000" />
+      <workItem from="1601865272619" duration="15636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1602380332359">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602380332359" />
+    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1595147576124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1595147576124" />
+    <state x="349" y="282" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595147554478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="349" y="282" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1595147554478" />
+    <state x="467" y="252" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1595147588236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="467" y="252" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1595147588236" />
+    <state x="463" y="114" key="FileChooserDialogImpl" timestamp="1595147920845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="114" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595147920845" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1602381040645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602381040645" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1602381040645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602381040645" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1602381040645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602381040645" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1602381040645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602381040645" />
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1600183835954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600183835954" />
+    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1600183835954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600183835954" />
+    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1600183835953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600183835953" />
+    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1600183835954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600183835954" />
+    <state x="346" y="67" key="NewModule_or_Project.wizard" timestamp="1595147922607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="67" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1595147922607" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1602452455529">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602452455529" />
+    <state x="404" y="105" width="567" height="524" key="StructurePopup" timestamp="1602256740981">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="105" width="567" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1602256740981" />
+    <state x="351" y="26" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602379392387">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="351" y="26" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1602379392387" />
+    <state x="303" y="90" width="759" height="548" key="find.popup" timestamp="1602379417518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="303" y="90" width="759" height="548" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1602379417518" />
+    <state x="81" y="68" key="new project wizard" timestamp="1595146976740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="81" y="68" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595146976740" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596272463621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596272463621" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/chen/algorithm/BinarySearch.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/chen/algorithm/BinarySearch.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/chen/algorithm/skiplist/SkipList.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
