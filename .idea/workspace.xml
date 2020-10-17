@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df9dc66b-bf74-4342-bf31-73f92f075753" name="Default Changelist" comment="" />
+    <list default="true" id="df9dc66b-bf74-4342-bf31-73f92f075753" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/collection/set/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/collection/set/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/collection/set/TreeSetComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/collection/set/TreeSetCompareTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/collection/set/TreeSetSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/SynchronizedExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/SynchronizedExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/chen/algorithm/designpattern/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/designpattern/Rectangle.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -29,6 +42,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ejz8CpBnmLMAJWdWJ4gw46hvdz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -59,20 +74,7 @@
       <recent name="E:\Idea_workspace\thinkinalgorithm\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FactoryExample">
-    <configuration name="DemoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.nio.DemoServer" />
-      <module name="thinkinalgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.chen.algorithm.nio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TreeSetSort">
     <configuration name="FactoryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.designpattern.FactoryExample" />
       <module name="thinkinalgorithm" />
@@ -86,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReadAndWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.io.FileReadAndWrite" />
+    <configuration name="SynchronizedExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.concurrency.SynchronizedExample" />
       <module name="thinkinalgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chen.algorithm.io.*" />
+          <option name="PATTERN" value="org.chen.algorithm.concurrency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.proxy.HelloProxy" />
+    <configuration name="TreeSetComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.collection.set.TreeSetComparator" />
       <module name="thinkinalgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chen.algorithm.proxy.*" />
+          <option name="PATTERN" value="org.chen.algorithm.collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +114,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrtegyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.designpattern.StrtegyExample" />
+    <configuration name="TreeSetCompareTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.collection.set.TreeSetCompareTo" />
       <module name="thinkinalgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chen.algorithm.designpattern.*" />
+          <option name="PATTERN" value="org.chen.algorithm.collection.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.collection.set.TreeSetSort" />
+      <module name="thinkinalgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.chen.algorithm.collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeSetSort" />
+        <item itemvalue="Application.TreeSetComparator" />
+        <item itemvalue="Application.TreeSetCompareTo" />
+        <item itemvalue="Application.SynchronizedExample" />
         <item itemvalue="Application.FactoryExample" />
-        <item itemvalue="Application.StrtegyExample" />
-        <item itemvalue="Application.FileReadAndWrite" />
-        <item itemvalue="Application.DemoServer" />
-        <item itemvalue="Application.HelloProxy" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +171,9 @@
       <workItem from="1600182530881" duration="2499000" />
       <workItem from="1600573055740" duration="5988000" />
       <workItem from="1601304723256" duration="1974000" />
-      <workItem from="1601865272619" duration="15636000" />
+      <workItem from="1601865272619" duration="16495000" />
+      <workItem from="1602923472388" duration="4214000" />
+      <workItem from="1602973780464" duration="1215000" />
     </task>
     <servers />
   </component>
@@ -164,10 +181,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1602380332359">
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1602925422788">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602380332359" />
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602925422788" />
     <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1595147576124">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -180,26 +197,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="467" y="252" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1595147588236" />
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602927294606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602927294606" />
     <state x="463" y="114" key="FileChooserDialogImpl" timestamp="1595147920845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="114" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595147920845" />
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1602381040645">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1602927742073">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602381040645" />
-    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1602381040645">
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602927742073" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1602927742073">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602381040645" />
-    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1602381040645">
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602927742073" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1602927742072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602381040645" />
-    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1602381040645">
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602927742072" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1602927742073">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602381040645" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602927742073" />
     <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1600183835954">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -262,6 +283,14 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/chen/algorithm/skiplist/SkipList.java</url>
           <line>31</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/chen/algorithm/collection/set/TreeSetSort.java</url>
+          <line>11</line>
+          <properties class="org.chen.algorithm.collection.set.TreeSetSort" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
