@@ -2,15 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df9dc66b-bf74-4342-bf31-73f92f075753" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/collection/set/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/collection/set/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/collection/set/TreeSetComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/collection/set/TreeSetCompareTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/collection/set/TreeSetSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/MyCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/SynChronousQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/enumtest/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/enumtest/Day2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/enumtest/EnumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/leetcodepractice/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/leetcodepractice/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/leetcodepractice/solution_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/collection/set/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/collection/set/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/collection/set/TreeSetComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/collection/set/TreeSetCompareTo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/collection/set/TreeSetSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/concurrency/SynchronizedExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/concurrency/ThreadTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/SynchronizedExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/SynchronizedExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/chen/algorithm/designpattern/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/designpattern/Rectangle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +31,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -61,26 +72,27 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Idea_workspace\thinkinalgorithm\src\main" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org.chen.algorithm.skiplist.org.chen.algorithm" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Idea_workspace\thinkinalgorithm\src\main" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.chen.algorithm.enumtest" />
+      <recent name="org.chen.algorithm.skiplist.org.chen.algorithm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Idea_workspace\thinkinalgorithm\src\main" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.TreeSetSort">
-    <configuration name="FactoryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.designpattern.FactoryExample" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="EnumDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.enumtest.EnumDemo" />
       <module name="thinkinalgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chen.algorithm.designpattern.*" />
+          <option name="PATTERN" value="org.chen.algorithm.enumtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,8 +100,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizedExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.concurrency.SynchronizedExample" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.Solution" />
+      <module name="thinkinalgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.chen.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynChronousQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.concurrency.SynChronousQueueTest" />
       <module name="thinkinalgorithm" />
       <extension name="coverage">
         <pattern>
@@ -101,25 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.collection.set.TreeSetComparator" />
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.concurrency.ThreadDemo" />
       <module name="thinkinalgorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chen.algorithm.collection.set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeSetCompareTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chen.algorithm.collection.set.TreeSetCompareTo" />
-      <module name="thinkinalgorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.chen.algorithm.collection.set.*" />
+          <option name="PATTERN" value="org.chen.algorithm.concurrency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.SynChronousQueueTest" />
+        <item itemvalue="Application.ThreadDemo" />
+        <item itemvalue="Application.EnumDemo" />
         <item itemvalue="Application.TreeSetSort" />
-        <item itemvalue="Application.TreeSetComparator" />
-        <item itemvalue="Application.TreeSetCompareTo" />
-        <item itemvalue="Application.SynchronizedExample" />
-        <item itemvalue="Application.FactoryExample" />
       </list>
     </recent_temporary>
   </component>
@@ -173,74 +185,72 @@
       <workItem from="1601304723256" duration="1974000" />
       <workItem from="1601865272619" duration="16495000" />
       <workItem from="1602923472388" duration="4214000" />
-      <workItem from="1602973780464" duration="1215000" />
+      <workItem from="1602973780464" duration="16865000" />
+      <workItem from="1603595327103" duration="5775000" />
+      <workItem from="1603835715205" duration="229000" />
     </task>
+    <task id="LOCAL-00001" summary="collections study example">
+      <created>1602975804162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602975804162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="collections study example" />
+    <option name="LAST_COMMIT_MESSAGE" value="collections study example" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1602925422788">
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1602984757317">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602925422788" />
-    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1595147576124">
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602984757317" />
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603607228507">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1595147576124" />
-    <state x="349" y="282" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595147554478">
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603607228507" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1603836007101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="349" y="282" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1595147554478" />
-    <state x="467" y="252" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1595147588236">
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603836007101" />
+    <state width="1323" height="213" key="GridCell.Tab.0.bottom" timestamp="1603519646769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="467" y="252" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1595147588236" />
-    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602927294606">
+    <state width="1323" height="213" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603519646769" />
+    <state width="1323" height="213" key="GridCell.Tab.0.center" timestamp="1603519646769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602927294606" />
-    <state x="463" y="114" key="FileChooserDialogImpl" timestamp="1595147920845">
+    <state width="1323" height="213" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603519646769" />
+    <state width="1323" height="213" key="GridCell.Tab.0.left" timestamp="1603519646769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="114" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595147920845" />
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1602927742073">
+    <state width="1323" height="213" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603519646769" />
+    <state width="1323" height="213" key="GridCell.Tab.0.right" timestamp="1603519646769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602927742073" />
-    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1602927742073">
+    <state width="1323" height="213" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603519646769" />
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1603519646769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602927742073" />
-    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1602927742072">
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603519646769" />
+    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1603519646769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602927742072" />
-    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1602927742073">
+    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1603519646769" />
+    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1603519646769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602927742073" />
-    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1600183835954">
+    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1603519646769" />
+    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1603519646769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600183835954" />
-    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1600183835954">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600183835954" />
-    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1600183835953">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600183835953" />
-    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1600183835954">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600183835954" />
-    <state x="346" y="67" key="NewModule_or_Project.wizard" timestamp="1595147922607">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="67" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1595147922607" />
+    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1603519646769" />
     <state x="186" y="0" key="SettingsEditor" timestamp="1602452455529">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -249,6 +259,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="404" y="105" width="567" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1602256740981" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1603836016633">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603836016633" />
     <state x="351" y="26" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602379392387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -257,14 +271,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="303" y="90" width="759" height="548" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1602379417518" />
-    <state x="81" y="68" key="new project wizard" timestamp="1595146976740">
+    <state x="365" y="166" key="git4idea.merge.GitPullDialog" timestamp="1603836028144">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="81" y="68" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595146976740" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596272463621">
+    <state x="365" y="166" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1603836028144" />
+    <state x="81" y="68" key="new project wizard" timestamp="1603519637999">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596272463621" />
+    <state x="81" y="68" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1603519637999" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602990486965">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602990486965" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
