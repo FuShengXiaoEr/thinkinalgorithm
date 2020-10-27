@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df9dc66b-bf74-4342-bf31-73f92f075753" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/MyCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/SynChronousQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/concurrency/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/enumtest/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/enumtest/Day2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/enumtest/EnumDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/leetcodepractice/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/leetcodepractice/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/leetcodepractice/solution_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/collection/set/Child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/collection/set/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/collection/set/TreeSetComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/collection/set/TreeSetCompareTo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/collection/set/TreeSetSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/concurrency/SynchronizedExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/chen/algorithm/concurrency/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/leetcodepractice/Solution_142.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/leetcodepractice/solution_141.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/chen/algorithm/leetcodepractice/solution_141.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +171,7 @@
       <workItem from="1602923472388" duration="4214000" />
       <workItem from="1602973780464" duration="16865000" />
       <workItem from="1603595327103" duration="5775000" />
-      <workItem from="1603835715205" duration="229000" />
+      <workItem from="1603835715205" duration="5565000" />
     </task>
     <task id="LOCAL-00001" summary="collections study example">
       <created>1602975804162</created>
@@ -196,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602975804162</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新增算法练习">
+      <created>1603836095463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603836095463</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +195,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="collections study example" />
-    <option name="LAST_COMMIT_MESSAGE" value="collections study example" />
+    <MESSAGE value="新增算法练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增算法练习" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1602984757317">
@@ -215,10 +207,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603607228507" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1603836007101">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1603836088631">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603836007101" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603836088631" />
     <state width="1323" height="213" key="GridCell.Tab.0.bottom" timestamp="1603519646769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -259,10 +251,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="404" y="105" width="567" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1602256740981" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1603836016633">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1603836123989">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603836016633" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603836123989" />
     <state x="351" y="26" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602379392387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
